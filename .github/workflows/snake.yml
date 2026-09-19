@@ -1,6 +1,7 @@
 name: Generate Snake
 
-on: [workflow_dispatch]
+on:
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -11,14 +12,13 @@ jobs:
 
     steps:
       - name: Generate snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: wh0sdev
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Publish snake
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Deploy
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
           target_branch: output
