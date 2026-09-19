@@ -57,10 +57,11 @@
 <h2>Contribution activity</h2>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wh0sdev/wh0sdev/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/wh0sdev/wh0sdev/output/github-contribution-grid-snake.svg" width="860" alt="GitHub contribution snake animation" />
-</picture>
+  <img
+    src="https://raw.githubusercontent.com/wh0sdev/wh0sdev/output/github-contribution-grid-snake.gif"
+    width="860"
+    alt="GitHub contribution snake animation"
+  />
 </p>
 
 <hr />
