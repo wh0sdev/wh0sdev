@@ -65,12 +65,11 @@
 
 <h2>Contribution trail</h2>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=wh0sdev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F255143705%3Fu%3D6f8de6c694b1dce5fba72c1f2bfc8e4a3870cec2%26v%3D4&v=oss-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=wh0sdev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F255143705%3Fu%3D6f8de6c694b1dce5fba72c1f2bfc8e4a3870cec2%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="wh0s contribution trail" />
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wh0sdev/wh0sdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wh0sdev/wh0sdev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wh0sdev/wh0sdev/output/github-contribution-grid-snake.svg">
 </picture>
-</p>
 
 <hr />
 
