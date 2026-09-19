@@ -56,7 +56,12 @@
 
 <h2>Contribution activity</h2>
 
-![Snake animation](https://raw.githubusercontent.com/wh0sdev/wh0sdev/output/github-contribution-grid-snake.svg)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wh0sdev/wh0sdev/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/wh0sdev/wh0sdev/output/github-contribution-grid-snake.svg" width="860" alt="GitHub contribution snake animation" />
+</picture>
+</p>
 
 <hr />
 
@@ -66,7 +71,9 @@
 
 <p align="center"><picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=wh0sdev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F255143705%3Fu%3D6f8de6c694b1dce5fba72c1f2bfc8e4a3870cec2%26v%3D4&v=oss-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=wh0sdev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F255143705%3Fu%3D6f8de6c694b1dce5fba72c1f2bfc8e4a3870cec2%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="wh0s community links" />
+  <img src="https://www.gitskins.com/api/section/social?username=wh0sdev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F255143705%3Fu%3D6f8de6c694b1dce5fba72c1f2bfc8e4a3870cec2%26v%3D4&mode=dark" width="100%" alt="wh0s community links" />
 </picture></p>
+
 <p align="center"><a href="https://github.com/wh0sdev">GitHub</a> &nbsp;·&nbsp; <a href="https://x.com/xwh0s_">X</a></p>
+
 <p align="center"><sub>wh0s · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
